@@ -1,0 +1,15 @@
+{
+  "name": "alibot",
+  "version": "1.0.0",
+  "description": "Program that orders random things on aliexpress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas Debrunner",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "random-words": "^1.1.1"
+  }
+}
